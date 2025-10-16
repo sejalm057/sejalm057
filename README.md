@@ -1,16 +1,16 @@
-# Hi, i'm_rajeev
+# Hi, i'm_Sejal
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
-[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
+[![Profile Views](https://komarev.com/ghpvc/?username=sejalm057&color=blueviolet)](https://github.com/sejalm057)
+[![Followers](https://img.shields.io/github/followers/sejalm057?label=Followers&style=social)](https://github.com/sejalm057?tab=followers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sejalm057.sejalm057)
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
-<!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
+<!-- <img align="right" alt="Boy working on computer" width="350" src="Violet.gif" /> -->
 
 ## 👤 About Me
 
