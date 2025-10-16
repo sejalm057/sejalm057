@@ -83,9 +83,8 @@ data visualizationdata cleaning
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
 <img width="300" alt="GitCover" src="HQLi.gif" />
-<img width="300" alt="GitCover" src="atom_large.gif" />
 <img width="300" alt="GitCover" src="neon.gif" />
 <img width="300" alt="GitCover" src="HQLi.gif" />
-<img width="300" alt="GitCover" src="HQLi.gif" />
+
 <!-- <img align="right" alt="GitCover" src="GreyGit.jpg" />
 <img align="right" alt="GitCover" src="StarGit.png" /> -->
