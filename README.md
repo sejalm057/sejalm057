@@ -54,6 +54,7 @@ data visualizationdata cleaning
 ## 📬 Connect with Me
 
 <img align="right" alt="GitCover" src="Globe.jpg" />
+<img align="right" alt="GitCover" src="Globe.webp" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
