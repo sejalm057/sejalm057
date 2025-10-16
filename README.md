@@ -84,7 +84,10 @@ data visualizationdata cleaning
 
 <img width="300" alt="GitCover" src="HQLi.gif" />
 <img width="300" alt="GitCover" src="neon.gif" />
-<img width="300" alt="GitCover" src="HQLi.gif" />
+<img width="300" alt="GitCover" src="NeonGit.png" />
+<img width="300" alt="GitCover" src="OrangeGit.png" />
+<img width="300" alt="GitCover" src="GitColor.png" />
+
 
 <!-- <img align="right" alt="GitCover" src="GreyGit.jpg" />
 <img align="right" alt="GitCover" src="StarGit.png" /> -->
