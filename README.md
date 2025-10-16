@@ -41,7 +41,7 @@ and delivering data-driven solutions that create real business impact.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
-![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-B22222?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 📬 Connect with Me
