@@ -22,8 +22,6 @@ and delivering data-driven solutions that create real business impact.
 
 ## 🚀 My Mission 
 
-<img align="right" alt="Girl working on computer" width="350" src="Pink.gif" /> 
-
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
 - To create professional and automated reporting systems.
@@ -31,10 +29,6 @@ and delivering data-driven solutions that create real business impact.
 - To contribute to data-driven decision making in organizations.
   
 ## 💻 My Skills
-python pandas numpy matplotlib seaborn 
-excel 
-data visualizationdata cleaning
-
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -54,7 +48,6 @@ data visualizationdata cleaning
 ## 📬 Connect with Me
 
 <img align="right" alt="GitCover" src="Globe.jpg" />
-<img align="right" alt="GitCover" src="Globe.webp" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
@@ -71,11 +64,6 @@ data visualizationdata cleaning
 <!--## 🤝 Thanks for Visiting! -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
-<!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/sejalm057?theme=dark)
-![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/sejalm057?theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
- [https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark
-) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
@@ -83,12 +71,4 @@ data visualizationdata cleaning
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
-<img width="300" alt="GitCover" src="HQLi.gif" />
-<img width="300" alt="GitCover" src="neon.gif" />
-<img width="300" alt="GitCover" src="NeonGit.png" />
-<img width="300" alt="GitCover" src="OrangeGit.png" />
-<img width="300" alt="GitCover" src="Gitcolor.png" />
-
-
-<!-- <img align="right" alt="GitCover" src="GreyGit.jpg" />
-<img align="right" alt="GitCover" src="StarGit.png" /> -->
+<img width="500" alt="GitCover" src="HQLi.gif" />
