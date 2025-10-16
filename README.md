@@ -14,7 +14,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 ## 👤 About Me
 
-<img align="right" alt="Boy working on computer" width="350" src="Blueman.jpg" /> 
+<img align="right" alt="Boy working on computer" width="350" src="Violet.gif" /> 
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
