@@ -10,11 +10,11 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
-<!-- <img align="right" alt="Boy working on computer" width="350" src="Violet.gif" /> -->
+<img align="right" alt="Girl working on computer" width="350" src="Violet.gif" /> 
 
 ## 👤 About Me
 
-<img align="right" alt="Boy working on computer" width="350" src="Violet.gif" /> 
+<img align="right" alt="Girl working on computer" width="350" src="Violet.gif" /> 
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
