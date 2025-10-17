@@ -51,7 +51,8 @@ and delivering data-driven solutions that create real business impact.
 ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white)
 
-## Languages💻 & Tools⚙️
+<!-- ## 📬 Connect with Me -->
+##   
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -65,12 +66,13 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ## 📬 Connect with Me -->
 ## 📬 Connect with Me
 
 <img align="right" alt="GitCover" src="Globe.jpg" />
@@ -82,10 +84,6 @@ and delivering data-driven solutions that create real business impact.
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalm347@gmail.com)
 <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a> -->
-
-<br>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***  
