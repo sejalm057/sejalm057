@@ -23,32 +23,32 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
 </p>
 
-
 <p align="center">
-  <!-- LinkedIn (official blue) 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a> -->
-
-  <!-- X / Twitter (white color) -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(000000) invert(1);"/>
-  </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+ 
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://twitter.com/YOUR_X_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="30" height="30"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
-</p>
+ <!-- GitHUb -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajeevgit8055hub/assets/main/animated-line.svg" alt="Animated Line" width="500" height="4"/>
 </p>
 
+<!-- LinkedIn (official blue) 
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a> -->
+  
+<!-- X / Twitter (X) 
+<a href="https://twitter.com/YOUR_X_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(0) invert(1);"/>
+  </a>
+</p>  -->
 
-
+<!-- X / Twitter (Bird logo) 
+ <!-- <a href="https://twitter.com/YOUR_X_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="30" height="30"/></a> -->
+ 
 <!--------------------------------->_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
