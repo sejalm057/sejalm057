@@ -65,7 +65,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalm057&theme=black"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalm057&theme=nightowl"/>
 </div>
 
 <!--------------------------------->_
