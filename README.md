@@ -22,10 +22,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 </p>
 
-### ![📊](https://img.icons8.com/ios/50/000000/chart.png) GitHub Stats
-### ![📈](https://img.icons8.com/ios/50/000000/graph.png) Activity
-### ![📊](https://img.icons8.com/ios/50/000000/chart.png) GitHub Stats
-### ![📈](https://img.icons8.com/ios/50/000000/graph.png) Activity
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> Activity Graph
 
 
 ## 👤 About Me
