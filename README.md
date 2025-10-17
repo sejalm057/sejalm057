@@ -24,43 +24,36 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   <img src="https://cdn-icons-png.flaticon.com/512/4230/4230629.png" alt="Data Visualization" width="50" height="50"/>
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/> 
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/4230/4230629.png" alt="Data Visualization" width="50" height="50"/> 
+</p>
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-![Numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
-![Seaborn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg)
-<!-- 🐍 Python -->
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/> 
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="55"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/4230/4230629.png" alt="Data Visualization" width="50" height="50"/> 
+</p>
 
-<!-- 🧮 NumPy -->
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
 
-<!-- 🐼 Pandas -->
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
 
-<!-- 📊 Matplotlib -->
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-
-<!-- 🌈 Seaborn -->
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-
-<!-- 📘 Power BI -->
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
-
-<!-- 🐘 PostgreSQL -->
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-
-<!-- 🐬 MySQL -->
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-
-<!-- ☕ Jupyter -->
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
-
-<!-- 🧠 GitHub -->
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-
-<!-- 🧩 Fan-like (Data Visualization / Analytics Generic Icon) -->
-![Data Visualization](https://cdn-icons-png.flaticon.com/512/4230/4230629.png)
 
 
 ## 👤 About Me
