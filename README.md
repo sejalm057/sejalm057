@@ -64,6 +64,18 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisnancy&theme=nightowl"/>
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=thisisnancy&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
+  </a>
+</div>
+
 <!--------------------------------->_
 
 
