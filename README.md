@@ -23,28 +23,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vanshika-pachauri-5189a924a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-
-  <!-- X / Twitter -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" height="30"/>
-  </a>
-</p>
-
-<p align="center">
   <!-- LinkedIn (official blue) -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
