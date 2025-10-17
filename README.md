@@ -22,8 +22,9 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> GitHub Stats
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> Activity Graph
+<a href="https://www.linkedin.com/in/vanshika-pachauri-5189a924a/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 
 ## 👤 About Me
