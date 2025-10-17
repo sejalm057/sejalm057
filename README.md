@@ -90,14 +90,14 @@ and delivering data-driven solutions that create real business impact.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalm057&layout=compact&theme=midnight-purple)
 
-<!--## 🤝 Thanks for Visiting! -->
+<!--## 📊 GitHub Streak -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--## 🤝 Thanks for Visiting! -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
