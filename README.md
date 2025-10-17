@@ -83,7 +83,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a> -->
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 <!-- ## 📊 GitHub Stats -->
 &nbsp;***Github Stats***  
