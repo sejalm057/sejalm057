@@ -7,10 +7,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> GitHub Stats
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> Activity
-
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
@@ -26,6 +22,10 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 </p>
 
+### ![📊](https://img.icons8.com/ios/50/000000/chart.png) GitHub Stats
+### ![📈](https://img.icons8.com/ios/50/000000/graph.png) Activity
+### ![📊](https://img.icons8.com/ios/50/000000/chart.png) GitHub Stats
+### ![📈](https://img.icons8.com/ios/50/000000/graph.png) Activity
 
 
 ## 👤 About Me
