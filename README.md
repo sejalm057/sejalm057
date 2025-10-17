@@ -76,6 +76,18 @@ and delivering data-driven solutions that create real business impact.
 
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+
+   <!-- Microsoft Access -->
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/access_96x96.png" alt="Microsoft Access" width="40" height="40"/>
+
+  <!-- Microsoft 365 -->
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/office_96x96.png" alt="Microsoft 365" width="40" height="40"/>
+
+  <!-- Microsoft Excel -->
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/excel_96x96.png" alt="Microsoft Excel" width="40" height="40"/>
+
+  <!-- Tableau -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
