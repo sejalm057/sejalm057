@@ -100,13 +100,9 @@ and delivering data-driven solutions that create real business impact.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalm057&layout=compact&theme=midnight-purple)
 
 <!--## 📊 GitHub Streak -->
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--## 📊 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
