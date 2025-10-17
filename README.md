@@ -33,16 +33,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   <a href="https://twitter.com/YOUR_X_USERNAME">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(0) invert(1);"/>
   </a>
-
-  <!-- GitHub (purple) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="filter: hue-rotate(260deg)"/>
-  </a>
-
-  <!-- Email (red) -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" height="30" style="filter: hue-rotate(-20deg) saturate(8)"/>
-  </a>
 </p>
 
 <p align="center">
@@ -51,42 +41,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
 </p>
-
-<p align="center">
-  <!-- LinkedIn (Official Blue) -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-
-  <!-- X (Twitter) - White -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023_%28white%29.png" alt="X" width="30" height="30"/>
-  </a>
-
-  <!-- GitHub - Purple -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-
-  <!-- Email - Red -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Red_envelope_icon.svg" alt="Email" width="30" height="30"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- X / Twitter (white color) -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023_%28white%29.png" alt="X" width="30" height="30"/>
-  </a>
-
-  <!-- GitHub (purple) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-</p>
-
-
 
 
 
