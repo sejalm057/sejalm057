@@ -67,9 +67,6 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GitHub_logo_2023.svg" alt="GitHub Violet" width="40" height="40" style="background-color:#8A2BE2; border-radius:50%; padding:5px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GitHub_logo_2023.svg" alt="GitHub Orange" width="40" height="40" style="background-color:#FF7F50; border-radius:50%; padding:5px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GitHub_logo_2023.svg" alt="GitHub Gradient" width="40" height="40" style="background:linear-gradient(135deg,#8A2BE2,#FF7F50); border-radius:50%; padding:5px;"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
