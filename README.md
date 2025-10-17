@@ -20,6 +20,8 @@ Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🚀 My Mission 
 
 - To simplify complex data for easy interpretation.
