@@ -64,30 +64,9 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
-
-<!-- Microsoft Access -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Microsoft_Access_Logo_2019.png" alt="Microsoft Access" width="40" height="40"/>
-
-  <!-- Microsoft 365 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_365_Logo.png" alt="Microsoft 365" width="40" height="40"/>
-
-  <!-- Microsoft Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
-
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-
-   <!-- Microsoft Access -->
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/access_96x96.png" alt="Microsoft Access" width="40" height="40"/>
-
-  <!-- Microsoft 365 -->
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/office_96x96.png" alt="Microsoft 365" width="40" height="40"/>
-
-  <!-- Microsoft Excel -->
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/excel_96x96.png" alt="Microsoft Excel" width="40" height="40"/>
-
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
