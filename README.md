@@ -28,8 +28,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
  
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
 </p>
- <!-- GitHUb -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajeevgit8055hub/assets/main/animated-line.svg" alt="Animated Line" width="500" height="4"/>
@@ -39,7 +37,10 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a> -->
-  
+
+<!-- GitHUb 
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a> -->
+
 <!-- X / Twitter (X) 
 <a href="https://twitter.com/YOUR_X_USERNAME">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(0) invert(1);"/>
