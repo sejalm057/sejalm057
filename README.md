@@ -32,7 +32,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
   <!-- X / Twitter (white color) -->
   <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" color=  "white" style="filter: brightness(0) invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(white) invert(1);"/>
   </a>
 </p>
 
