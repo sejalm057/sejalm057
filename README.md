@@ -92,7 +92,7 @@ and delivering data-driven solutions that create real business impact.
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a> -->
 
 <!-- ## 📊 GitHub Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;## GitHub Stats  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalm057&show_icons=true&theme=midnight-purple)
