@@ -43,9 +43,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!"/>
+  <img src="https://raw.githubusercontent.com/rajeevgit8055hub/assets/main/animated-line.svg" alt="Animated Line" width="500" height="4"/>
 </p>
-
 
 
 ## 👤 About Me
