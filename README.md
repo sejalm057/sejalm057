@@ -64,6 +64,17 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
+  <!-- Microsoft Access -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftaccess/microsoftaccess-original.svg" alt="Microsoft Access" width="40" height="40"/>
+
+  <!-- Microsoft 365 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_365_logo.svg" alt="Microsoft 365" width="40" height="40"/>
+
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="Microsoft Excel" width="40" height="40"/>
+
+  <!-- Tableau -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
