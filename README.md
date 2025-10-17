@@ -7,6 +7,11 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula)
+
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
