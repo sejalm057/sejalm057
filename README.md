@@ -10,6 +10,44 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
+![Numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+![Seaborn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg)
+<!-- 🐍 Python -->
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
+<!-- 🧮 NumPy -->
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+
+<!-- 🐼 Pandas -->
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
+
+<!-- 📊 Matplotlib -->
+![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
+
+<!-- 🌈 Seaborn -->
+![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+
+<!-- 📘 Power BI -->
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
+<!-- 🐘 PostgreSQL -->
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
+<!-- 🐬 MySQL -->
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+<!-- ☕ Jupyter -->
+![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
+
+<!-- 🧠 GitHub -->
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+
+<!-- 🧩 Fan-like (Data Visualization / Analytics Generic Icon) -->
+![Data Visualization](https://cdn-icons-png.flaticon.com/512/4230/4230629.png)
+
+
 ## 👤 About Me
 
 <img align="right" alt="Girl working on computer" width="350" src="Violet.gif" /> 
