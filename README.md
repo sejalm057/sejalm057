@@ -68,14 +68,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisnancy&theme=nightowl"/>
 </div>
 
----
-
-<div align="center" style="margin-top: 40px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=thisisnancy&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
-  </a>
-</div>
-
 <!--------------------------------->_
 
 
