@@ -43,16 +43,9 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </p>
 
 <p align="center">
-  <!-- White X -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023_(white).png" alt="X" width="30" height="30"/>
-  </a>
-
-  <!-- Purple GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/GitHub_Purple_Logo.svg" alt="GitHub" width="30" height="30"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!"/>
 </p>
+
 
 
 ## 👤 About Me
