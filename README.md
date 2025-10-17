@@ -12,7 +12,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 👤 About Me -->
 ## 👤 About Me
@@ -25,7 +25,7 @@ Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
@@ -36,7 +36,7 @@ and delivering data-driven solutions that create real business impact.
 - To continuously learn and apply new data technologies.
 - To contribute to data-driven decision making in organizations.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 💻 My Skills -->
 ## 💻 My Skills
@@ -75,7 +75,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📬 Connect with Me -->
 ## 📬 Connect with Me
@@ -92,9 +92,9 @@ and delivering data-driven solutions that create real business impact.
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a> -->
 
 <!-- ## 📊 GitHub Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;## GitHub Stats  
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalm057&show_icons=true&theme=midnight-purple)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalm057&layout=compact&theme=midnight-purple)
@@ -104,7 +104,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!--## 📊 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalm057&theme=nightowl"/>
