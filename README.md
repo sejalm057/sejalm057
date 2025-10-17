@@ -95,8 +95,8 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalm057&show_icons=true&theme=midnight-purple)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalm057&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalm057&layout=compact&theme=midnight-purple)
 
 <!--## 📊 GitHub Streak -->
