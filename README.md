@@ -5,7 +5,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 [![Followers](https://img.shields.io/github/followers/sejalm057?label=Followers&style=social)](https://github.com/sejalm057?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sejalm057.sejalm057)
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
-![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+![Repositories](https://img.shields.io/badge/Repositories-2-F29111?style=for-the-badge&labelColor=D83B01)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
@@ -29,6 +29,8 @@ and delivering data-driven solutions that create real business impact.
 - To create professional and automated reporting systems.
 - To continuously learn and apply new data technologies.
 - To contribute to data-driven decision making in organizations.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 ## 💻 My Skills
 
@@ -47,6 +49,8 @@ and delivering data-driven solutions that create real business impact.
 ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📬 Connect with Me
 
 <img align="right" alt="GitCover" src="Globe.jpg" />
@@ -57,6 +61,8 @@ and delivering data-driven solutions that create real business impact.
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejalm057)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalm347@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalm057&show_icons=true&theme=midnight-purple)
@@ -66,6 +72,8 @@ and delivering data-driven solutions that create real business impact.
 <!--## 🤝 Thanks for Visiting! -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejalm057&theme=dark) 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
