@@ -1,6 +1,8 @@
 # Hi, i'm_Sejal
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
+<!-- Header Section -->
+
 [![Profile Views](https://komarev.com/ghpvc/?username=sejalm057&color=blueviolet)](https://github.com/sejalm057)
 [![Followers](https://img.shields.io/github/followers/sejalm057?label=Followers&style=social)](https://github.com/sejalm057?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sejalm057.sejalm057)
@@ -12,6 +14,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- 👤 About Me -->
 ## 👤 About Me
 
 <img align="right" alt="Girl working on computer" width="350" src="Violet.gif" /> 
@@ -24,6 +27,7 @@ and delivering data-driven solutions that create real business impact.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
 - To simplify complex data for easy interpretation.
@@ -33,7 +37,8 @@ and delivering data-driven solutions that create real business impact.
 - To contribute to data-driven decision making in organizations.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
+
+<!-- 💻 My Skills -->
 ## 💻 My Skills
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
@@ -51,8 +56,8 @@ and delivering data-driven solutions that create real business impact.
 ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white)
 
-<!-- ## 📬 Connect with Me -->
-##   
+<!-- Languages💻 / Tools⚙ -->
+## Languages💻 / Tools⚙️
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
