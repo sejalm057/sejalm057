@@ -50,10 +50,10 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!--------------------------------->_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center" style="margin-top: 50px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJsaHA1OGtnbjZlcW53enl2a3d4dm13aXU0ZjBzOTZxdDBseHVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StcrDoMb4eSXn80J0J/giphy.webp" alt="Gif" width="35" style="margin-right: 10px;">
-   Connect with me:
-</h2>  
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--------------------------------->_
 
