@@ -47,6 +47,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </p>
 
 
+
 ## 👤 About Me
 
 <img align="right" alt="Girl working on computer" width="350" src="Violet.gif" /> 
