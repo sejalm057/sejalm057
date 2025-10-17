@@ -92,7 +92,7 @@ and delivering data-driven solutions that create real business impact.
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a> -->
 
 <!-- ## 📊 GitHub Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**Github Stats**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <br>
 
@@ -118,65 +118,3 @@ and delivering data-driven solutions that create real business impact.
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
 <img width="500" alt="GitCover" src="HQLi.gif" />
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30" height="30"/>
- <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" height="30"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
-<!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
-</p>
-
-
-
-<!-- LinkedIn (official blue) 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a> -->
-
-<!-- GitHUb 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a> -->
-
-<!-- X / Twitter (X) 
-<a href="https://twitter.com/YOUR_X_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30" style="filter: brightness(0) invert(1);"/>
-  </a>
-</p>  -->
-
-<!-- X / Twitter (Bird logo) 
- <!-- <a href="https://twitter.com/YOUR_X_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="30" height="30"/></a> -->
- 
-<!--------------------------------->_
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
- <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-
-
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalm057&theme=nightowl"/>
-</div>
-
-<!--------------------------------->_
-
