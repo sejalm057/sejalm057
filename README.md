@@ -22,6 +22,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
 </p>
 
+
 <p align="center">
   <!-- LinkedIn (official blue) -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
@@ -44,6 +45,12 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+  <a href="https://twitter.com/YOUR_X_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="30" height="30"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
+</p>
 
 
 
